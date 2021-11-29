@@ -19,9 +19,11 @@
 ### ⚙️ Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://tabnine.gallerycdn.vsassets.io/extensions/tabnine/tabnine-vscode/3.5.1/1637219645223/Microsoft.VisualStudio.Services.Icons.Default" />][tabnine]
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kitty%28Terminal-emulator%29.png" />][kitty]
+[<img align="left" alt="Z Shell" width="26px" src="https://mcornella.github.io/ohmyzsh-stargazers/favicon.png" />][zsh]
 
 <br />
 <br />
@@ -51,6 +53,7 @@
 [discord]: https://discord.com/
 
 [vscode]: https://code.visualstudio.com/
+[tabnine]: https://www.tabnine.com/
 [html]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -61,3 +64,4 @@
 [git]: https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
 [github]: https://github.com/LukiSx420
 [kitty]: https://sw.kovidgoyal.net/kitty/
+[zsh]: https://www.zsh.org/
