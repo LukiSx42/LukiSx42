@@ -1,5 +1,5 @@
 ## I'm a beginner dev, still in high school 🤣
-### I use arch btw...
+#### I use arch btw...
 
 > 🖥️ I mainly code in **Python3**, **JS**
 >
@@ -9,14 +9,14 @@
 >
 > ❔ Did i mention that I use Arch?
 
-### My Accounts:
+### 🖥️ My Accounts:
 
 [<img align="left" alt="Discord | LukiS#1430" width="22px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][discord]
 > LukiS#1430
 
 <br />
 
-### Tools:
+### ⚙️ Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -34,10 +34,12 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 📜 Stats:
 
-  <img align="left" alt="LukiSx420's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukiSx420&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Click Me :zap:</summary>
+
+  <img align="left" alt="LukiSx420's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukiSx420&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
 
 [discord]: https://discord.com/
