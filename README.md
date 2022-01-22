@@ -12,7 +12,7 @@
 ### 🖥️ My Accounts:
 
 [<img align="left" alt="Discord | LukiS#1430" width="22px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][discord]
-> LukiS#1430
+> LukiS.eth#1430
 
 <br />
 
