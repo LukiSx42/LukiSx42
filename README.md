@@ -1,13 +1,11 @@
 ## I'm a beginner dev, still in high school 🤣
-### I use arch btw...
+### 17 atm
 
 > 🖥️ I mainly code in **Python3**, **JS**
 >
 > 🔥 Looking forward to learn other programming languages such as **C**, **C++**, **Rust** and **Java**
 >
 > 📝 I use **VS code** as my main **IDE**
->
-> ❔ Did i mention that I use Arch?
 
 ### 🖥️ My Accounts:
 
