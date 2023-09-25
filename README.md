@@ -1,5 +1,5 @@
 ## I'm a beginner dev, still in high school 🤣
-### 17 atm
+### 19 atm
 
 > 🖥️ I mainly code in **Python3**, **JS**
 >
