@@ -1,4 +1,4 @@
-## I'm a beginner dev, still in high school 🤣
+## I'm a beginner dev, still in Uni 🤣
 ### 19 atm
 
 > 🖥️ I mainly code in **Python3**, **JS**
