@@ -6,6 +6,8 @@
 > 🔥 Looking forward to learn other programming languages such as **C**, **C++**, **Rust** and **Java**
 >
 > 📝 I use **VS code** as my main **IDE**
+>
+> 📦 **90%** of my repositories are **private**
 
 ### 🖥️ My Accounts:
 
