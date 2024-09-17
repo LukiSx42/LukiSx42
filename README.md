@@ -7,7 +7,7 @@
 >
 > 📝 I use **VS code** as my main **IDE**
 >
-> 📦 **90%** of my repositories are **private**
+> 📦 Almost all of my repositories are **private**
 
 ### 🖥️ My Accounts:
 
