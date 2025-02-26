@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: Click Me :zap:</summary>
 
-  <img align="left" alt="LukiSx420's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukiSx420&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="LukiSx420's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LukiSx42&show_icons=true&hide_border=true&theme=tokyonight" />
 </details>
 
 [discord]: https://discord.com/
