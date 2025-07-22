@@ -1,7 +1,7 @@
 ## I'm a beginner dev
-### 20 atm
+### 21 atm
 
-> 🖥️ I mainly code in **Python3**, **JS**
+> 🖥️ I mainly code in **Python3**, **JS** and **Powershell**
 >
 > 🔥 Looking forward to learn other programming languages such as **C**, **C++**, **Rust** and **Java**
 >
@@ -12,7 +12,7 @@
 ### 🖥️ My Accounts:
 
 [<img align="left" alt="Discord | LukiS#1430" width="22px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][discord]
-> LukiS.eth#1430
+> zyzzy.eth
 
 <br />
 
