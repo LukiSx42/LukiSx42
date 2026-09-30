@@ -8,7 +8,7 @@
 <!-- ══════════════════ HEADER ══════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Professional%20vibe%20coder&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=aka. Senior dev&descSize=18&descAlignY=60&descColor=a9b1d6&animation=fadeIn" alt="Professional vibe coder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Professional%20vibe%20coder&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=aka.%20Senior%20dev&descSize=18&descAlignY=60&descColor=a9b1d6&animation=fadeIn" alt="Professional vibe coder" />
 
 <br/>
 
