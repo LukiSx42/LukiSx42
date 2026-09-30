@@ -8,12 +8,12 @@
 <!-- ══════════════════ HEADER ══════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Professional%20vibe%20coder&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=%F0%9F%92%BB%20shipping%20software%20on%20good%20vibes%20and%20great%20tooling&descSize=18&descAlignY=60&descColor=a9b1d6&animation=fadeIn" alt="Professional vibe coder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Professional%20vibe%20coder&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=aka. Senior dev&descSize=18&descAlignY=60&descColor=a9b1d6&animation=fadeIn" alt="Professional vibe coder" />
 
 <br/>
 
 <a href="https://github.com/LukiSx42">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=aka.+Zyzzy+%F0%9F%91%8B;Python3+%C2%B7+JavaScript+%C2%B7+PowerShell;Roblox+games+with+an+AI+workflow;Vibes+in%2C+shipped+code+out." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Zyzzy+%F0%9F%91%8B;Python3+%C2%B7+JavaScript+%C2%B7+PowerShell;Roblox+games+with+an+AI+workflow;Claude+Code+user" alt="typing" />
 </a>
 
 <br/>
@@ -29,14 +29,14 @@
 <!-- ══════════════════ DISCORD (LIVE) ══════════════════ -->
 <div align="center">
 
-### 🎮 Catch me on Discord — <code>zyzzy.eth</code>
+### Discord — <code>zyzzy.eth</code>
 
 <!--
-  ⚠️ REPLACE `DISCORD_ID` below with your numeric Discord user ID (see setup step 1 at the bottom).
-  This card is LIVE — it updates in real time with your status, avatar, badges and current activity.
+  This card is LIVE — it updates in real time with your status, avatar and badges.
+  hideActivity=true removes the tall bottom activity box, keeping only the compact top half.
 -->
 <a href="https://discord.com/users/151721375210536961">
-  <img src="https://lanyard.cnrad.dev/api/151721375210536961?theme=dark&bg=1a1b27&borderRadius=16px&showDisplayName=true&idleMessage=Probably%20vibe%20coding%20something..." alt="Discord presence" width="480" />
+  <img src="https://lanyard.cnrad.dev/api/151721375210536961?theme=dark&bg=1a1b27&borderRadius=16px&showDisplayName=true&hideActivity=true" alt="Discord presence" width="480" />
 </a>
 
 </div>
@@ -50,29 +50,37 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/ZyzzyDev">
         <img src="https://avatars.githubusercontent.com/u/294160391?s=140&v=4" width="80" style="border-radius:50%" alt="ZyzzyDev" /><br/>
         <b>ZyzzyDev</b>
       </a><br/>
       <sub>My personal dev org —<br/>home for my repositories</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/Shadow-Engine-Labs">
         <img src="https://avatars.githubusercontent.com/u/316274625?s=140&v=4" width="80" style="border-radius:50%" alt="Shadow Engine Labs" /><br/>
         <b>Shadow&nbsp;Engine&nbsp;Labs</b>
       </a><br/>
       <sub>Roblox game dev with an<br/>AI-powered workflow 🎲</sub>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Zyzzy-claude">
-        <img src="https://avatars.githubusercontent.com/u/294118071?s=140&v=4" width="80" style="border-radius:50%" alt="Zyzzy-claude" /><br/>
-        <b>Zyzzy-claude</b> 🤖
-      </a><br/>
-      <sub>Separate GitHub identity my<br/>Claude coding agents commit as</sub>
-    </td>
   </tr>
 </table>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════ CODING AGENTS ══════════════════ -->
+<div align="center">
+
+### 🤖 My Coding Agents
+
+<a href="https://github.com/Zyzzy-claude">
+  <img src="https://avatars.githubusercontent.com/u/294118071?s=140&v=4" width="80" style="border-radius:50%" alt="Zyzzy-claude" /><br/>
+  <b>Zyzzy-claude</b>
+</a><br/>
+<sub>Separate GitHub identity my Claude coding agents commit as</sub>
 
 </div>
 
@@ -84,7 +92,7 @@
 ### 🛠️ Tech & Tools
 
 ![Daily driver](https://img.shields.io/badge/daily_driver-Python3_·_JS_·_PowerShell-7aa2f7?style=flat-square&labelColor=1a1b27)
-![Learning](https://img.shields.io/badge/learning-C_·_C++_·_Rust_·_Java-bb9af7?style=flat-square&labelColor=1a1b27)
+![Learning](https://img.shields.io/badge/learning-C_·_C++_·_Java-bb9af7?style=flat-square&labelColor=1a1b27)
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,js,powershell,nodejs,lua,react,html,css,mongodb,git,github,vscode&theme=dark" alt="skills" />
@@ -92,7 +100,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,java&theme=dark" alt="learning" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" alt="learning" />
 <br/>
 <sub>👆 languages currently on my to-learn list</sub>
 
@@ -105,33 +113,9 @@
 
 ### 📊 GitHub Stats
 
-<!-- Self-hosted via GitHub Actions (profile.yml) — reliable, never rate-limited. -->
-<img src="./assets/stats.svg#gh-dark-mode-only" width="49%" alt="stats" />
-<img src="./assets/top-langs.svg#gh-dark-mode-only" width="40%" alt="top languages" />
-
-<br/>
-
 <!-- Live streak service (still up in 2026) -->
 <img src="https://streak-stats.demolab.com?user=LukiSx42&theme=tokyonight&hide_border=true&border_radius=12&background=1A1B27" width="70%" alt="streak" />
 
-<br/><br/>
-
-<!-- Live summary cards (work today with zero setup) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LukiSx42&theme=tokyonight" width="32%" alt="langs" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LukiSx42&theme=tokyonight" width="32%" alt="commit langs" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LukiSx42&theme=tokyonight&utcOffset=1" width="32%" alt="productive time" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════ SNAKE ══════════════════ -->
-<div align="center">
-
-<!-- Generated by profile.yml → pushed to the `output` branch -->
-<img src="https://raw.githubusercontent.com/LukiSx42/LukiSx42/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
-
-</div>
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 <div align="center">
